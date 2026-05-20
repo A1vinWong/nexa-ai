@@ -8,3 +8,4 @@ prompt = st.text_input("Describe what you want to create")
 
 if st.button("Generate"):
     st.write("AI output will appear here")
+
